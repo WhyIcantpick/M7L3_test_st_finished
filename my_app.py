@@ -9,7 +9,6 @@ from PyQt5.QtWidgets import (
 from instr import *
 from second_win import *
  
-    ####
 class MainWin(QWidget):
     def __init__(self):
         ''' вікно, в якому розташовується привітання '''
